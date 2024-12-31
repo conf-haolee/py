@@ -1,0 +1,5 @@
+pyautogui
+cv2
+numpy
+PIL
+pytesseract
